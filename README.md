@@ -1,7 +1,7 @@
 # CRUD-REST-API-Boilerplate
 
 Boilerplate code for implementing CRUD (Create, Read, Update, Delete) REST API in JavaScript using Node.js, Express.js and MongoDB module Mongoose. We're building a CRUD REST API for an application where the User can login, signup and upload or buy a product. Run the command "npm init" in the root folder before starting this exercise. 
-Modules required are: 
+Modules required are (Node.js is a pre-requisite): 
   - Express.js (for setting up webpages)
   - Mongoose (for input schemas)
   - body-parser (extracts the entire body portion of an incoming request stream and exposes it on req)
